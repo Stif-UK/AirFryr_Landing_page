@@ -44,33 +44,22 @@ features                                  :
     description                           : Keep notes of your calculations and favourite recipes - edit and update at any time!
     fontawesome_icon_name                 : book
 
-  - title                                 : Video Support
-    description                           : Preview app video on the iPhone device simply by placing your video files in the videos folder.
-    fontawesome_icon_name                 : play-circle
+  - title                                 : Real Time Search
+    description                           : Quickly search your notebook to find your favourite notes
+    fontawesome_icon_name                 : magnifying-glass
 
-  - title                                 : Automatic Icon and Metadata
-    description                           : Enter iOS app ID in the _config.yml file to automatically fetch app icon, price and App Store Link.
-    fontawesome_icon_name                 : sync
+  - title                                 : Categorise and Filter
+    description                           : Categorise your notes and quickly filter the notebook to find the types of recipe you're looking for
+    fontawesome_icon_name                 : filter
 
-  - title                                 : Easy to Tweak
-    description                           : Tweak accent color, images, icons and transparency via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : adjust
+  - title                                 : Always Free
+    description                           : Air Fryr is supported by small, unobtrusive ads and the full feature set is always free! 
+    fontawesome_icon_name                 : lock-open
   
-  - title                                 : Feature List
-    description                           : Add features (like this one) to your site via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : star
+  - title                                 : Pay what you like
+    description                           : Want to remove ads? You can choose how much you'd like to pay to support Air Fryr!
+    fontawesome_icon_name                 : hand-holding-dollar
 
-  - title                                 : Smart App Banner
-    description                           : Display a smart app banner on iOS devices.
-    fontawesome_icon_name                 : arrow-alt-circle-down
-
-  - title                                 : Social Links
-    description                           : Easily add social media accounts and contact info in the footer via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : link
-
-  - title                                 : FontAwesome Support
-    description                           : Pick custom Font Awesome icons for the feature list via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : info-circle
 
   - title                                 : # New Feature Title
     description                           : # New Feature Description
