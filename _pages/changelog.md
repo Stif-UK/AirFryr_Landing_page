@@ -5,30 +5,41 @@ include_in_header: true
 ---
 
 # Changelog
-Here you can keep a changelog for your app. Edit the markdown based CHANGELOG.md which is located in the _pages directory. The changelog below is simply an example changelog that serves to exemplify how the markdown can be used. You can be as creative as you want with the markdown.
+Here you can view a changelog and version history for **Air Fryr.**
+Got some suggestions for features you'd like to see in a future update? Please feel free to mention in an app review via Apple or Google, or drop me an email!
 
 <br>
 
 ### `Latest`
-# **Version 2.0**
-This is the first update to our app. Jeez **goodness** by kept more sensually a much far proper exotically precise [here is a link](https://www.google.com) and and illicit hey uninspiring the more sat honey knelt before before bearish bowed lorikeet wolf grandly instead diligently and rhinoceros imperative.
+# **Version 1.3**
+In the initial version of **Air Fryr** I included the ability to add categories to any notes that you save, and now in this latest release I actually allow you to make use of those categories, by quickly filtering the notebook to show only the selected category - perfect if you want to quickly find a list of all the dessert recipes you've saved!
 
 #### What's New
-- Much far proper exotically precise unaccountable.
-- [Changes to Privacy Policy](/privacypolicy)
+- Added the ability to filter the notebook by category.
+- Implemented a 'what's new' pop-up that displays when the app version updates.
 
-#### Bug Fixes
-- Much far proper exotically precise unaccountable.
-- [Changes to Privacy Policy](/privacypolicy)
 
 <br>
 
-### **Version 2.1**
-Abnormal and formidable against much the before well improper more spent far heron amicably iguana plainly swanky upon mammoth **much paid darn some tapir** some glared save crud more regarding one accommodating gosh cannily and on hungry a more goodness inside merry yikes wedded versus because some a a a shined anteater goldfinch jeez up so and this this a.
+### **Version 1.2**
+In this release I've added the ability to remove the ads from **Air Fryr** through a simple in-app payment. Users can choose the price they want to pay to support the app and permanently remove ads.
 
 #### What's New
-- Much far proper exotically precise unaccountable.
-- Much far proper exotically precise unaccountable.
+- Added the ability to support the app and remove ads via an in-app purchase.
+- Updates to add additional options and clearer navigation in the sidebar menu
+
+<br>
+
+________
+<br>
+
+### **Version 1.1**
+test
+
+#### What's New
+- Added ability to search notebook
+- Added direct link to leave app reviews
+- Updated validation on note fields
 
 <br>
 
@@ -37,29 +48,17 @@ ________
 
 ### `Initial Release`
 # **Version 1.0**
-Cracked a more and iguana a without some echidna a abnormal hello and beat thanks jeepers gnu jeepers until up depending for drooled awfully angelfish relentless much a well wasp some in impala darn and overate greedily wow kookaburra beneath much wistful fluid until and lemming less armadillo redoubtable after much capybara wow that hence interbred timorous loosely oh divisively wherever because jeepers until since as that goodness roadrunner insanely belated physic jeepers hey jeepers much the beside steadfastly up toward indubitably this goodness playful.
+The initial release of **Air Fryr!**
+**Air Fryr** has been built as a companion app for those looking to get the most out of their air fryer. It allows users to convert the oven cooking times provided in recipes/on packet instructions to timings more suitable for an air fryer, as well as to save these calculations to a notebook for future reference, or amendment (as rule of thumb calculatios aren't always perfect, and everybodies machine is a little different).
+
+#### Key Features
+- Calculate reduced cooking temperature & time for Air Frying vs conventional ovens
+- Switch preference between Celsius and Fahrenheit
+- Save notes for future reference
+- Edit saved notes
 
 <br>
 
-## **Version 1.1**
-Abnormal and formidable against much the before well improper more spent far heron amicably iguana plainly swanky upon mammoth **much paid darn some tapir** some glared save crud more regarding one accommodating gosh cannily and on hungry a more goodness inside merry yikes wedded versus because some a a a shined anteater goldfinch jeez up so and this this a.
 
-#### What's New
-- Much far proper exotically precise unaccountable.
-- Much far proper exotically precise unaccountable.
-
-<br>
-
-## Version 1.0.1
-That wow robin one and gosh audibly darn that variously less across softly awakened under affectingly wildebeest from jeepers far contemplated and indisputably clung jeepers much mistaken some after mumbled hey certain neatly far alas more trod the swelled rolled permissively so save pert the tapir paradoxical off so then juggled crud a however overslept vehemently kept indisputably anteater walked alas or into.
-
-#### What's New
-- Much far proper exotically precise unaccountable.
-- Much far proper exotically precise unaccountable.
-- Much far proper exotically precise unaccountable.
-
-#### Bug Fixes
-- Improved user sign up experience.
-- Unlike deliberately zebra hen oh jeez understandable. Alas and quit oh snooty unlike deliberately.
 
 <br>
