@@ -18,7 +18,8 @@ In the initial version of **Air Fryr** I included the ability to add categories 
 - Added the ability to filter the notebook by category.
 - Implemented a 'what's new' pop-up that displays when the app version updates.
 
-
+<br>
+________
 <br>
 
 ### **Version 1.2**

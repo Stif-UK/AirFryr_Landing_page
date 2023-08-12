@@ -7,7 +7,7 @@ ios_app_country                           : UK                                  
 
 appstore_link                             :  https://apps.apple.com/us/app/air-fryr/id6446950736                                         # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
 playstore_link                            : https://play.google.com/store/apps/details?id=com.stifdev.airfryr                                          # Enter Google Play Store URL.
-presskit_download_link                    : https://www.granthutchison.com/posts/air_fryr/                                         # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file). 
+presskit_download_link                    : https://www.granthutchison.com/posts/air_fryr/                                         # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file).
                                                                                       # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
 
 app_icon                                  : assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
@@ -20,16 +20,16 @@ enable_smart_app_banner                   : true                                
 
 
 # Information About Yourself
-your_name                                 : Grant Hutchison                                
-your_link                                 : https://granthutchison.com                     
-your_city                                 : Glasgow                                
+your_name                                 : Grant Hutchison
+your_link                                 : https://granthutchison.com
+your_city                                 : Glasgow
 email_address                             : stifdev.uk@gmail.com
-facebook_username                         :                                           
-instagram_username                        : 
-twitter_username                          : 
+facebook_username                         :
+instagram_username                        :
+twitter_username                          :
 github_username                           : Stif-UK
 youtube_username                          :
-mastodon_link                             : 
+mastodon_link                             :
 
 
 
@@ -39,7 +39,7 @@ features                                  :
   - title                                 : Calculate Cooking Times
     description                           : Take temperature and times from your normal oven recipes and recalculate for your air fryer!
     fontawesome_icon_name                 : temperature-low
-    
+
   - title                                 : Notebook
     description                           : Keep notes of your calculations and favourite recipes - edit and update at any time!
     fontawesome_icon_name                 : book
@@ -53,11 +53,11 @@ features                                  :
     fontawesome_icon_name                 : filter
 
   - title                                 : Always Free
-    description                           : Air Fryr is supported by small, unobtrusive ads and the full feature set is always free! 
+    description                           : Air Fryr is supported by small, unobtrusive ads and the full feature set is always free!
     fontawesome_icon_name                 : lock-open
-  
+
   - title                                 : Pay what you like
-    description                           : Want to remove ads? You can choose how much you'd like to pay to support Air Fryr!
+    description                           : Want to remove ads? Pick the price of your one-off donation to support the apps development!
     fontawesome_icon_name                 : comment-dollar
 
 
