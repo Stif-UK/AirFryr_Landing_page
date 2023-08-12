@@ -46,7 +46,7 @@ features                                  :
 
   - title                                 : Real Time Search
     description                           : Quickly search your notebook to find your favourite notes
-    fontawesome_icon_name                 : magnifying-glass
+    fontawesome_icon_name                 : searchengin
 
   - title                                 : Categorise and Filter
     description                           : Categorise your notes and quickly filter the notebook to find the types of recipe you're looking for
@@ -58,7 +58,7 @@ features                                  :
   
   - title                                 : Pay what you like
     description                           : Want to remove ads? You can choose how much you'd like to pay to support Air Fryr!
-    fontawesome_icon_name                 : hand-holding-dollar
+    fontawesome_icon_name                 : comment-dollar
 
 
   - title                                 : # New Feature Title
