@@ -46,7 +46,7 @@ features                                  :
 
   - title                                 : Real Time Search
     description                           : Quickly search your notebook to find your favourite notes
-    fontawesome_icon_name                 : searchengin
+    fontawesome_icon_name                 : search
 
   - title                                 : Categorise and Filter
     description                           : Categorise your notes and quickly filter the notebook to find the types of recipe you're looking for
