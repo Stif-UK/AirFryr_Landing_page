@@ -35,7 +35,8 @@ ________
 <br>
 
 ### **Version 1.1**
-test
+In the second app release I've made it easier to manage an ever growing notebook by including a real time search feature - simply begin typing the name of a note into the search box and the notebook will filter down to show notes matching the search criteria.
+In addition this update includes a link in the sidebar to take you directly to the App Store/Play Store to leave an app review - reviews really help to surface the app to new users as well as being a great way to tell me what you do and don't like about the app, so please consider sharing your thoughts (good or bad!)
 
 #### What's New
 - Added ability to search notebook
