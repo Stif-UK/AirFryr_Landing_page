@@ -46,6 +46,7 @@ In addition this update includes a link in the sidebar to take you directly to t
 <br>
 
 ________
+
 <br>
 
 ### `Initial Release`
