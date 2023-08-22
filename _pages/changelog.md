@@ -11,6 +11,21 @@ Got some suggestions for features you'd like to see in a future update? Please f
 <br>
 
 ### `Latest`
+# **Version 1.4**
+Version 1.4 implements some mandatory changes to keep the app compliant with the Apple and Google platforms as well as to utilise the latest version of some internal libraries it makes use of.
+In addition it adds the ability to mark notes as favourites, and to filter the notebook to only show favourites to make them faster to find.
+
+#### What's New
+- Added the ability to mark notes as favourites.
+- Implemented the ability to filter the notebook to show favourites only.
+- Made the temperature slider on the calculator more granular.
+- Updated the Google Admob SDK to the latest version to remain compliant.
+- Updated the RevenueCat SDK to the latest version to remain compliant.
+- Updated the target operating systems to the latest versions.
+- Fixed an issue where long notes wouldn't fully display (app now displays up to 150 line notes!).
+
+<br>
+________
 # **Version 1.3**
 In the initial version of **Air Fryr** I included the ability to add categories to any notes that you save, and now in this latest release I actually allow you to make use of those categories, by quickly filtering the notebook to show only the selected category - perfect if you want to quickly find a list of all the dessert recipes you've saved!
 
@@ -19,7 +34,6 @@ In the initial version of **Air Fryr** I included the ability to add categories 
 - Implemented a 'what's new' pop-up that displays when the app version updates.
 
 <br>
-________
 <br>
 
 ### **Version 1.2**

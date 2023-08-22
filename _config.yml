@@ -52,6 +52,10 @@ features                                  :
     description                           : Categorise your notes and quickly filter the notebook to find the types of recipe you're looking for
     fontawesome_icon_name                 : filter
 
+    - title                                 : Save your favourites
+      description                           : Mark notes as favourites to make them faster to find!
+      fontawesome_icon_name                 : star
+
   - title                                 : Always Free
     description                           : Air Fryr is supported by small, unobtrusive ads and the full feature set is always free!
     fontawesome_icon_name                 : lock-open
