@@ -44,6 +44,10 @@ features                                  :
     description                           : Keep notes of your calculations and favourite recipes - edit and update at any time!
     fontawesome_icon_name                 : book
 
+  - title                                 : Temperature Reference
+    description                           : Internal temperature quick reference to help confirm your food is fully cooked.
+    fontawesome_icon_name                 : thermometer
+
   - title                                 : Real Time Search
     description                           : Quickly search your notebook to find your favourite notes
     fontawesome_icon_name                 : search

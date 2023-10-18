@@ -11,6 +11,19 @@ Got some suggestions for features you'd like to see in a future update? Please f
 <br>
 
 ### `Latest`
+# **Version 1.5**
+In v1.5 I've implemented a handy temperature reference guide - I find I often use a meat thermometer to confirm that my food is fully cooked and was constantly checking with Google to remind myself of the ideal temperatures... so I built a quick reference page into the app!
+I also introduced a quick _first use demo_, which pops up for new users giving a quick overview of the apps main features.
+
+#### What's New
+- Added handy temperature reference guide.
+- Introduced a first use demo.
+
+#### Bug Fixes
+- Adjusted the colours used for text to improve the readability of notes.
+
+<br>
+
 # **Version 1.4**
 Version 1.4 implements some mandatory changes to keep the app compliant with the Apple and Google platforms as well as to utilise the latest version of some internal libraries it makes use of.
 In addition it adds the ability to mark notes as favourites, and to filter the notebook to only show favourites to make them faster to find.
