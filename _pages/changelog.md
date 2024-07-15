@@ -11,6 +11,27 @@ Got some suggestions for features you'd like to see in a future update? Please f
 <br>
 
 ### `Latest`
+
+# **Version 1.7**
+A relatively small update this time - for a while I'd been keen to provide an easier way to share notes you've taken, so I've implemented a quick share function to the notebook. Inside any note you can now access a 'share' button that will pass the content of the note directly to the OS (iOS or Android) which can then make it available to either save to the clipboard (so that you can paste it elsewhere) or pass it directly to another app (for example if you want to message it to somebody else).
+In addition, I've updated the navigation on the notebook slightly - when editing a note there is now a 'save' button in the top right corner (where the 'edit' button is when viewing a note) - this lets you quickly save an update without having to scroll all the way down to the existing save button.
+
+Finally, this update includes some updates to the underlying libraries and app configuration that is mandated each year - this doesn't really change any functionality, but ensures I'm up to date with the latest platform policies.
+
+As always, I hope you enjoy the update - feel free to share any feedback via the usual channels!
+
+#### What's New
+- Quickly share your notes - press the 'share' button to open an OS native share prompt, allowing you to copy the note to your clipboard, or share it via another app (such as email or messages).
+- When editing a note, the 'edit' button in the top right of the page now transforms into a 'save' button, allowing you to save changes without scrolling to the bottom of the screen.
+- Under the hood updates to the build SDK and billing library, as well as updating target OS levels (mandatory changes to keep the app compliant with Apple and Google policies)
+
+#### Bug Fixes
+- Corrected the spelling of 'Celsius' in the app *(I'm definitely not proud of that one!)*
+
+
+<br>
+________
+
 # **Version 1.6**
 The latest version addresses some points raised in feedback via app reviews (a huge thank you to anyone that's provided feedback, it's genuinely useful to help make the app better!). Firstly, a few people have mentioned that using the sliders on the calculator page can make it difficult to get the exact input figure they want to enter - so I've implemented a change that makes the oven temperature and time info into buttons. When pressing the button, a pop-up appears allowing you to manually enter a value with the on-screen keyboard (this probably seems like a really simple change, but in reality I re-engineered a fair bit of how the whole page works in the background to achieve this!).
 
@@ -26,6 +47,8 @@ I've implemented a quick change that dismisses the keyboard if the user either c
 
 
 <br>
+________
+
 # **Version 1.5**
 In v1.5 I've implemented a handy temperature reference guide - I find I often use a meat thermometer to confirm that my food is fully cooked and was constantly checking with Google to remind myself of the ideal temperatures... so I built a quick reference page into the app!
 I also introduced a quick _first use demo_, which pops up for new users giving a quick overview of the apps main features.
@@ -38,6 +61,7 @@ I also introduced a quick _first use demo_, which pops up for new users giving a
 - Adjusted the colours used for text to improve the readability of notes.
 
 <br>
+________
 
 # **Version 1.4**
 Version 1.4 implements some mandatory changes to keep the app compliant with the Apple and Google platforms as well as to utilise the latest version of some internal libraries it makes use of.
@@ -54,6 +78,8 @@ In addition it adds the ability to mark notes as favourites, and to filter the n
 
 <br>
 ________
+
+
 # **Version 1.3**
 In the initial version of **Air Fryr** I included the ability to add categories to any notes that you save, and now in this latest release I actually allow you to make use of those categories, by quickly filtering the notebook to show only the selected category - perfect if you want to quickly find a list of all the dessert recipes you've saved!
 
@@ -64,7 +90,7 @@ In the initial version of **Air Fryr** I included the ability to add categories 
 <br>
 <br>
 
-### **Version 1.2**
+# **Version 1.2**
 In this release I've added the ability to remove the ads from **Air Fryr** through a simple in-app payment. Users can choose the price they want to pay to support the app and permanently remove ads.
 
 #### What's New
@@ -76,7 +102,7 @@ In this release I've added the ability to remove the ads from **Air Fryr** throu
 ________
 <br>
 
-### **Version 1.1**
+# **Version 1.1**
 In the second app release I've made it easier to manage an ever growing notebook by including a real time search feature - simply begin typing the name of a note into the search box and the notebook will filter down to show notes matching the search criteria.
 In addition this update includes a link in the sidebar to take you directly to the App Store/Play Store to leave an app review - reviews really help to surface the app to new users as well as being a great way to tell me what you do and don't like about the app, so please consider sharing your thoughts (good or bad!)
 
@@ -92,6 +118,7 @@ ________
 <br>
 
 ### `Initial Release`
+
 # **Version 1.0**
 The initial release of **Air Fryr!**
 **Air Fryr** has been built as a companion app for those looking to get the most out of their air fryer. It allows users to convert the oven cooking times provided in recipes/on packet instructions to timings more suitable for an air fryer, as well as to save these calculations to a notebook for future reference, or amendment (as rule of thumb calculatios aren't always perfect, and everybodies machine is a little different).
