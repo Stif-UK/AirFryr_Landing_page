@@ -12,6 +12,21 @@ Got some suggestions for features you'd like to see in a future update? Please f
 
 ### `Latest`
 
+# **Version 1.7.1**
+Earlier in the year I received an app review stating that whilst the user liked the app, they'd prefer it in their native language. I said I'd be happy to support if they could share a translation with me... and a little while later I received an email with a really thorough translation of the app from English to Dutch!
+
+When I initially built the app I didn't expect it to prove popular, I built it because it was something I wanted to use, but I was definitely open to the idea of translating the app - it did however mean a fairly significant bit of refactoring to separate out all of the text into separate files, as well as implementing a framework to allow me to change the loaded language file on demand.
+
+This proved to be more work than I expected, but it was definitely a worthwhile exercise and sets the app up well for further translations in future - if there's a language you'd like to see the app translated into and are happy to help, then please drop me an email and I can share a reference file as a starting point.
+
+In the meantime though, I hope my Dutch users enjoy being able to use the app in their native language!
+
+#### What's New
+- Air Fryr is now available in Dutch - change language in the Settings menu.
+
+<br>
+________
+
 # **Version 1.7**
 A relatively small update this time - for a while I'd been keen to provide an easier way to share notes you've taken, so I've implemented a quick share function to the notebook. Inside any note you can now access a 'share' button that will pass the content of the note directly to the OS (iOS or Android) which can then make it available to either save to the clipboard (so that you can paste it elsewhere) or pass it directly to another app (for example if you want to message it to somebody else).
 In addition, I've updated the navigation on the notebook slightly - when editing a note there is now a 'save' button in the top right corner (where the 'edit' button is when viewing a note) - this lets you quickly save an update without having to scroll all the way down to the existing save button.
