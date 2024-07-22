@@ -12,7 +12,7 @@ Got some suggestions for features you'd like to see in a future update? Please f
 
 ### `Latest`
 
-# **Version 1.7.1**
+# **Version 1.7.2**
 Earlier in the year I received an app review stating that whilst the user liked the app, they'd prefer it in their native language. I said I'd be happy to support if they could share a translation with me... and a little while later I received an email with a really thorough translation of the app from English to Dutch!
 
 When I initially built the app I didn't expect it to prove popular, I built it because it was something I wanted to use, but I was definitely open to the idea of translating the app - it did however mean a fairly significant bit of refactoring to separate out all of the text into separate files, as well as implementing a framework to allow me to change the loaded language file on demand.
