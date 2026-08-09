@@ -11,6 +11,18 @@ Got some suggestions for features you'd like to see in a future update? Please f
 <br>
 
 ### `Latest`
+# **Version 1.8.1**
+
+This version includes the ability to backup and restore your notebook to a new device. You can do this via the 'App Data' link in the app sidebar.
+
+I also added the app logo to the sidebar, because I think it looks nice!
+
+
+#### What's New
+- Ability to backup your notebook to transfer to a new devices
+- Fixed a bug where the preference for showing the app in Celsius or Fahrenheit wasn't saving.
+
+<br>
 
 # **Version 1.7.2**
 Earlier in the year I received an app review stating that whilst the user liked the app, they'd prefer it in their native language. I said I'd be happy to support if they could share a translation with me... and a little while later I received an email with a really thorough translation of the app from English to Dutch!
